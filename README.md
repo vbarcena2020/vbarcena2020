@@ -22,11 +22,11 @@
 
 
 ### 🎮 About my hobbies:
-* Watch anime
-* Read manga
-* Go to Japan events like [JapanWekend](https://www.japanweekend.com)
-* Play games
-* Listen to music in [spotify](https://open.spotify.com/user/sibprc54pysl7opy4rbxee573?si=b6fec24d873b457f)
+* 🖥️ Watch anime
+* 📖 Read manga
+* ⛩️ Go to Japan events like [JapanWekend](https://www.japanweekend.com)
+* 🎮 Play games
+* 🎶 Listen to music in [spotify](https://open.spotify.com/user/sibprc54pysl7opy4rbxee573?si=b6fec24d873b457f)
   
   
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbarcena2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)-->
