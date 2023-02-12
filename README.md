@@ -31,8 +31,12 @@
   
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbarcena2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)-->
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vbarcena2020&theme=github-dark-blue&hide_border=true"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=vbarcena2020&theme=github-dark-blue&hide_border=true" alt= "abito2"/>
 </p>
 
-
+<p align="center"> <a href="https://www.instagram.com/abito_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abito2" height="30" width="30" /></a>  
+<a href="https://twitter.com/abito_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abito2" height="30" width="30" /></a> 
+<a href="https://www.linkedin.com/in/víctor-bárcena-mena-400155266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abito2" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCHaEDC482IjA6KO6RxA7qhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=mRXKnG2eugU" height="30" width="30" /></a>  </p>
+ 
   
