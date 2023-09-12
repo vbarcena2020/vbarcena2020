@@ -32,8 +32,10 @@
   
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbarcena2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)-->
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vbarcena2020&theme=github-dark-blue&hide_border=true" alt= "abito2"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vbarcena2020&theme=dark" alt= "Abito2"/></a>
 </p>
+
+
 
 <p align="center"> <a href="https://www.instagram.com/abito_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abito2" height="30" width="30" /></a>  
 <a href="https://twitter.com/abito_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abito2" height="30" width="30" /></a> 
