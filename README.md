@@ -10,6 +10,7 @@
 * [Robot Mano-Zeus Robotech - Project Member](https://github.com/RoboTech-URJC/Mano-Zeus)
 * [Robocup 2022. Member of the Nocom-pila team](https://twitter.com/jm__guerrero/status/1533122565392285696?s=20) - 🥇 Winners of [European RoboCup@Home Education 2022](https://www.urjc.es/todas-las-noticias-de-actualidad/7352-la-urjc-ganadora-de-la-european-robocup-2022), Portugal
 * [Oficial Member of Nocom-pila (Nocompila)](https://www.youtube.com/@nocompila)
+* [My Personal Page and Blog](https://vbarcena2020.github.io/My_personal_page/#)
 
 ### 📖 About my knowledge:
 * Scientific bachelor 
@@ -40,6 +41,7 @@
 <p align="center"> <a href="https://www.instagram.com/abito_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abito2" height="30" width="30" /></a>  
 <a href="https://twitter.com/abito_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abito2" height="30" width="30" /></a> 
 <a href="https://www.linkedin.com/in/víctor-bárcena-mena-400155266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abito2" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@nocompila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=mRXKnG2eugU" height="30" width="30" /></a>  </p>
+<a href="https://www.youtube.com/@nocompila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=mRXKnG2eugU" height="30" width="30" /></a>
+<a href="https://linktr.ee/abito2" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" alt="abito2" height="30" width="30" /></a> </p>
  
   
