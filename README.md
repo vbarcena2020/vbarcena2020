@@ -9,7 +9,7 @@
 * [Robotech Association](https://github.com/RoboTech-URJC)
 * [Robot Mano-Zeus Robotech - Project Member](https://github.com/RoboTech-URJC/Mano-Zeus)
 * [Robocup 2022. Member of the Nocom-pila team](https://twitter.com/jm__guerrero/status/1533122565392285696?s=20) - 🥇 Winners of [European RoboCup@Home Education 2022](https://www.urjc.es/todas-las-noticias-de-actualidad/7352-la-urjc-ganadora-de-la-european-robocup-2022), Portugal
-* [Oficial Member of Nocom-pila (Nocompila)](https://www.youtube.com/@nocompila)
+* [Oficial Member of Nocom-pila (Nocompila)](https://vbarcena2020.github.io/Nocom-Pila/)
 * [My Personal Page and Blog](https://vbarcena2020.github.io/My_personal_page/#)
 
 ### 📖 About my knowledge:
